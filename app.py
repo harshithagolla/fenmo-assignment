@@ -4,3 +4,5 @@ st.set_page_config(page_title="Fenmo App", layout="centered")
 
 st.title("Fenmo Assessment App")
 st.write("Template ready.")
+st.success("Deployment working!")
+
